@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NOTES</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_noteedit">Noteedit</string>
+    <string name="title_activity_noteview">Noteview</string>
+    <string name="title_activity_dview">Dview</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>
